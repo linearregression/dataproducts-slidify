@@ -1,6 +1,6 @@
 ---
 title       : Simple text sentiment analysis
-subtitle    : N/A
+subtitle    : Opionionated
 author      : Ling Long WeWa
 job         : Sentiment Analyst
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-logo        : logo.png
+logo        : []
 ---
 
 ## Problem
